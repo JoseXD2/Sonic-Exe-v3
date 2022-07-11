@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fleetway Super Sonic.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fleetway Down0000" x="5" y="5" width="567" height="715" frameX="-60" frameY="-27" frameWidth="653" frameHeight="745"/>
+	<SubTexture name="Fleetway HowFast0000" x="582" y="5" width="521" height="784" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
+	<SubTexture name="Fleetway HowFast0027" x="1113" y="5" width="628" height="759" frameX="-14" frameY="-42" frameWidth="737" frameHeight="833"/>
+	<SubTexture name="Fleetway HowFast0091" x="1113" y="774" width="598" height="769" frameX="-86" frameY="-67" frameWidth="737" frameHeight="833"/>
+	<SubTexture name="Fleetway Idle0000" x="1751" y="5" width="602" height="839" frameX="-31" frameY="0" frameWidth="662" frameHeight="841"/>
+	<SubTexture name="Fleetway Left0000" x="5" y="854" width="667" height="654" frameX="0" frameY="-13" frameWidth="798" frameHeight="704"/>
+	<SubTexture name="Fleetway Right0000" x="1721" y="854" width="715" height="661" frameX="0" frameY="-14" frameWidth="765" frameHeight="736"/>
+	<SubTexture name="Fleetway Up0000" x="5" y="1525" width="549" height="796" frameX="0" frameY="-7" frameWidth="590" frameHeight="825"/>
+</TextureAtlas>

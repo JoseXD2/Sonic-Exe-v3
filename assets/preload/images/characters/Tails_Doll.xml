@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tails_Doll.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TailsDoll DOWN instance 10000" x="5" y="5" width="346" height="283"/>
+	<SubTexture name="TailsDoll IDLE instance 10000" x="361" y="5" width="320" height="372"/>
+	<SubTexture name="TailsDoll LEFT instance 10000" x="5" y="387" width="316" height="409"/>
+	<SubTexture name="TailsDoll RIGHT instance 10000" x="691" y="5" width="380" height="442"/>
+	<SubTexture name="TailsDoll UP instance 10000" x="331" y="457" width="269" height="438"/>
+</TextureAtlas>

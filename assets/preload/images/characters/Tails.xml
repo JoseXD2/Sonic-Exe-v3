@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tails.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tails DOWN0000" x="5" y="5" width="299" height="351" frameX="0" frameY="-9" frameWidth="299" frameHeight="361"/>
+	<SubTexture name="Tails IDLE0000" x="314" y="5" width="258" height="411" frameX="-5" frameY="0" frameWidth="264" frameHeight="412"/>
+	<SubTexture name="Tails LEFT0000" x="582" y="5" width="348" height="398" frameX="0" frameY="-2" frameWidth="352" frameHeight="400"/>
+	<SubTexture name="Tails RIGHT0000" x="582" y="413" width="332" height="396" frameX="0" frameY="-1" frameWidth="333" frameHeight="397"/>
+	<SubTexture name="Tails UP0000" x="940" y="5" width="310" height="448" frameX="-4" frameY="0" frameWidth="313" frameHeight="451"/>
+</TextureAtlas>

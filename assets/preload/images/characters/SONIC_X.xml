@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SONIC_X.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="X_Down instance 10000" x="5" y="5" width="713" height="650"/>
+	<SubTexture name="X_Idle instance 10000" x="728" y="5" width="523" height="648"/>
+	<SubTexture name="X_Left instance 10000" x="728" y="663" width="645" height="674"/>
+	<SubTexture name="X_Right instance 10000" x="1383" y="5" width="658" height="686"/>
+	<SubTexture name="X_Up instance 10000" x="5" y="701" width="601" height="769"/>
+</TextureAtlas>

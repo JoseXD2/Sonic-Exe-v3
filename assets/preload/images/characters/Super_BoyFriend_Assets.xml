@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Super_BoyFriend_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN instance 10000" x="5" y="5" width="683" height="607" frameX="0" frameY="0" frameWidth="750" frameHeight="648"/>
+	<SubTexture name="BF NOTE LEFT instance 10000" x="5" y="681" width="679" height="671"/>
+	<SubTexture name="BF NOTE RIGHT instance 10000" x="694" y="681" width="683" height="658"/>
+	<SubTexture name="BF NOTE UP instance 10000" x="1387" y="5" width="665" height="689"/>
+	<SubTexture name="BF Super idle dance instance 10000" x="698" y="5" width="676" height="666"/>
+</TextureAtlas>

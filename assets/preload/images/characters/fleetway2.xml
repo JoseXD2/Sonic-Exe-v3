@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fleetway2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fleetway Growl0000" x="5" y="5" width="567" height="725" frameX="0" frameY="-28" frameWidth="577" frameHeight="760"/>
+	<SubTexture name="Fleetway Right Alt0000" x="582" y="5" width="808" height="660" frameX="0" frameY="-8" frameWidth="836" frameHeight="679"/>
+	<SubTexture name="Fleetway Scream0000" x="582" y="675" width="516" height="661" frameX="0" frameY="-37" frameWidth="564" frameHeight="721"/>
+	<SubTexture name="Fleetway Show You0000" x="1108" y="675" width="548" height="684" frameX="-162" frameY="-127" frameWidth="760" frameHeight="968"/>
+	<SubTexture name="Fleetway Show You0066" x="1666" y="5" width="567" height="697" frameX="-94" frameY="-68" frameWidth="760" frameHeight="968"/>
+	<SubTexture name="Fleetway Shut Up0000" x="1666" y="712" width="512" height="755" frameX="-68" frameY="-89" frameWidth="796" frameHeight="818"/>
+	<SubTexture name="Fleetway Shut Up0019" x="5" y="1477" width="570" height="719" frameX="-133" frameY="0" frameWidth="796" frameHeight="818"/>
+</TextureAtlas>

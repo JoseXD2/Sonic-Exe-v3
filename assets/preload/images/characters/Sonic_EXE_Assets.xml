@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonic_EXE_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONIClaugh0000" x="1158" y="5" width="442" height="605" frameX="-6" frameY="0" frameWidth="456" frameHeight="617"/>
+	<SubTexture name="SONICmoveDOWN0000" x="5" y="5" width="378" height="587" frameX="-2" frameY="-52" frameWidth="379" frameHeight="612"/>
+	<SubTexture name="SONICmoveIDLE0000" x="393" y="5" width="360" height="605" frameX="0" frameY="0" frameWidth="369" frameHeight="606"/>
+	<SubTexture name="SONICmoveLEFT0000" x="763" y="5" width="381" height="586" frameX="0" frameY="-9" frameWidth="408" frameHeight="587"/>
+	<SubTexture name="SONICmoveRIGHT0000" x="763" y="601" width="385" height="597" frameX="-4" frameY="-6" frameWidth="414" frameHeight="598"/>
+	<SubTexture name="SONICmoveUP0000" x="5" y="620" width="455" height="662" frameX="-1" frameY="0" frameWidth="461" frameHeight="670"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+{
+	"storyName": "SonicExe",
+	"hideFreeplay": false,
+	"weekBackground": "WhiteOG",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"WhiteOG",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cycles",
+			"soylent",
+			[
+				175,
+				20,
+				0
+			]
+		],
+		[
+			"sunshine",
+			"taildoll",
+			[
+				175,
+				20,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekEXE3"
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fleetway1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fleetway Grrr0000" x="5" y="5" width="528" height="739" frameX="-107" frameY="-142" frameWidth="753" frameHeight="913"/>
+	<SubTexture name="Fleetway Grrr0021" x="543" y="5" width="668" height="808" frameX="-8" frameY="0" frameWidth="753" frameHeight="913"/>
+	<SubTexture name="Fleetway Laugh0000" x="1221" y="5" width="560" height="695" frameX="-41" frameY="-10" frameWidth="685" frameHeight="752"/>
+	<SubTexture name="Fleetway Scream0000" x="1221" y="710" width="516" height="661" frameX="0" frameY="-37" frameWidth="564" frameHeight="721"/>
+	<SubTexture name="Fleetway Shut Up0000" x="5" y="1381" width="512" height="755" frameX="-68" frameY="-89" frameWidth="796" frameHeight="818"/>
+	<SubTexture name="Fleetway Shut Up0021" x="527" y="1381" width="570" height="719" frameX="-133" frameY="0" frameWidth="796" frameHeight="818"/>
+	<SubTexture name="Fleetway StepItUp0000" x="1107" y="1381" width="672" height="722" frameX="-35" frameY="-136" frameWidth="797" frameHeight="854"/>
+	<SubTexture name="Fleetway Too Slow0000" x="1791" y="5" width="585" height="758" frameX="-44" frameY="-90" frameWidth="618" frameHeight="785"/>
+	<SubTexture name="Fleetway Too Slow0033" x="1789" y="773" width="538" height="731" frameX="0" frameY="-23" frameWidth="618" frameHeight="785"/>
+	<SubTexture name="Fleetway WHAT?!0000" x="1789" y="1514" width="572" height="686" frameX="-49" frameY="-46" frameWidth="693" frameHeight="811"/>
+	<SubTexture name="Fleetway YoureFinished0000" x="5" y="2210" width="662" height="694" frameX="-29" frameY="0" frameWidth="726" frameHeight="817"/>
+</TextureAtlas>

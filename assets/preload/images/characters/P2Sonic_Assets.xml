@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="P2Sonic_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NewPhase2Sonic Down instance 10000" x="5" y="5" width="487" height="570"/>
+	<SubTexture name="NewPhase2Sonic Idle instance 10000" x="502" y="5" width="561" height="741"/>
+	<SubTexture name="NewPhase2Sonic Laugh instance 10000" x="1073" y="5" width="674" height="681"/>
+	<SubTexture name="NewPhase2Sonic Left instance 10000" x="5" y="756" width="739" height="608"/>
+	<SubTexture name="NewPhase2Sonic Right instance 10000" x="754" y="756" width="602" height="589"/>
+	<SubTexture name="NewPhase2Sonic Up instance 10000" x="1366" y="696" width="482" height="737"/>
+</TextureAtlas>

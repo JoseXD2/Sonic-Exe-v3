@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eggman_soul.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eggman_Down0000" x="5" y="5" width="602" height="447" frameX="0" frameY="-36" frameWidth="602" frameHeight="484"/>
+	<SubTexture name="Eggman_Idle0000" x="617" y="5" width="503" height="528" frameX="0" frameY="-50" frameWidth="507" frameHeight="581"/>
+	<SubTexture name="Eggman_Laugh0000" x="1408" y="5" width="454" height="728" frameX="0" frameY="-229" frameWidth="515" frameHeight="789"/>
+	<SubTexture name="Eggman_Laugh0028" x="1408" y="743" width="468" height="789" frameX="-46" frameY="-9" frameWidth="515" frameHeight="789"/>
+	<SubTexture name="Eggman_Left0000" x="5" y="543" width="680" height="682"/>
+	<SubTexture name="Eggman_Right0000" x="695" y="543" width="703" height="756" frameX="0" frameY="-6" frameWidth="702" frameHeight="762"/>
+	<SubTexture name="Eggman_Up0000" x="5" y="1542" width="750" height="824"/>
+</TextureAtlas>
